@@ -15,8 +15,10 @@
 # +         Addition
 # -         Substraction
 # *         Multiplication
-# /         Devition
+# /         Divition
 # %         Remainder
 
-# match     kind of switch      [case _:  ->   default()]
+# match     kind of switch      [case _:  ->   default:]
 # Use '|' instead of 'or' in case
+
+#updated
