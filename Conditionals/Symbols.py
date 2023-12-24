@@ -15,10 +15,11 @@
 # +         Addition
 # -         Substraction
 # *         Multiplication
-# /         Divition
+# /         Division
+# //        Floor division
 # %         Remainder
 
 # match     kind of switch      [case _:  ->   default:]
 # Use '|' instead of 'or' in case
 
-# connected?
+# Run as .py
