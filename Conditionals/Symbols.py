@@ -7,8 +7,9 @@
 # ==        equal
 # !=        not equal
 # ===       identical
-# |         or
-# &&        and
+# |         or (in match case)
+# and       and
+# *or & and used as typed in python*
 
 ### - - - Arithmatic Symbols - - - ###
 # Parity
