@@ -1,3 +1,3 @@
 # Python
-Basic codes
-Started - December 21th, 2023
+## Basic codes
+### Started - December 21th, 2023
