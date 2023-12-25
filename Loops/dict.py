@@ -2,7 +2,7 @@ students = {
     "Hermione" : "Gryffindor",
     "Harry": "Gryffindor",
     "Ron": "Gryffindor",
-    "Draco": "Slytherin",
+    "Draco": "Slytherin"
 }
 
 for student in students:

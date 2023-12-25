@@ -23,7 +23,7 @@ def main():
 
 def print_square(size):
 
-    # For each brick in row
+    # For each row in square
     for i in range(size):
 
         # For each brick in row
