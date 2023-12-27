@@ -1,0 +1,6 @@
+# 3rd party libraries = packages
+
+# pypi.org - packages for python
+
+# package manager - pip
+    for example: > pip install cowsay

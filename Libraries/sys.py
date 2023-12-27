@@ -1,7 +1,7 @@
 import sys
 
 if len(sys.argv) < 2:
-    sys.exit("Too few arguments!")      # not just print but to exit from file - sys.exit
+    sys.exit("Too few arguments!")      # sys.exit() to terminate the whole program
 
 for arg in sys.argv[1:]:           # [Lower index : ] loop will run to end
     print("Hello, my name is", arg)
