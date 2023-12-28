@@ -1,0 +1,13 @@
+# PEP 8 is a document that provides various guidelines to write the readable in Python.
+# PEP 9standardized what your code should look like.
+
+# Indentation
+# Tabs or Spaces?
+# Maximum Line Length
+# Blank Lines
+# Imports
+# ...
+
+# pylint
+# pip install pylint
+# pip install black
