@@ -6,7 +6,7 @@
 # Maximum Line Length
 # Blank Lines
 # Imports
-# ...
+# ...
 
 # pylint
 # pip install pylint
