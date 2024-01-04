@@ -1,0 +1,16 @@
++-- KeyboardInterrupt
++-- Exception
+    +-- ArithmeticError
+        +-- ZeroDivisionError
+    +-- ArithmeticError
+    +-- AttributeError
+    +-- EOFError
+    +-- ImportError
+    |   +-- ModuleNotFoundError
+    +-- LookupError
+        +-- KeyError
+    +-- NameError
+    +-- SyntaxError
+        +-- IndentationError
+    +-- ValueError
+...
