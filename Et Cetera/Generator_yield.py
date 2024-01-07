@@ -2,7 +2,12 @@
 # the function which contains yield, instead of simply returning a value.
 
 
-# Works for bigger inputs
+# Works for bigger inputs.
+# Don't run the entire loop then return a value.
+# It's do one iteration and yield a result.
+# Each iteration return only that string,
+# not also the previos ones, so memory cant easily execute full code.
+
 def main():
     n = int(input("What's n? "))
     for s in sheep(n):
@@ -17,8 +22,8 @@ if __name__ == "__main__":
 
 
 """
-# if the n is big enough like 1000000 code won't work
-# file can't return so many times
+# if the n is big enough for example 1000000 code won't work
+# Code can't return so many times, need huge memory
 
 def main():
     n = int(input("What's n? "))
